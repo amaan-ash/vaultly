@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vaultly_blue">#1E5FD9</color>
+    <color name="vaultly_blue_dark">#123E93</color>
+    <color name="vaultly_blue_light">#E8F0FE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1A1A1A</color>
+    <color name="grey_text">#6B7280</color>
+    <color name="grey_light">#F2F4F7</color>
+    <color name="grey_border">#E0E4EA</color>
+    <color name="status_active_bg">#E3F7E9</color>
+    <color name="status_active_text">#1E9E4C</color>
+    <color name="status_expired_bg">#FDEAEA</color>
+    <color name="status_expired_text">#D9342B</color>
+    <color name="status_expiring_bg">#FFF4E0</color>
+    <color name="status_expiring_text">#C9820A</color>
+</resources>
