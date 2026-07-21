@@ -1,0 +1,6 @@
+com.example.vaultly.test.app-core-1.5.0-0 C:\Users\Amaan\.gradle\caches\transforms-3\0fe8f85bf043be08c0d50096e900f928\transformed\core-1.5.0\res
+com.example.vaultly.test.app-annotation-experimental-1.3.0-1 C:\Users\Amaan\.gradle\caches\transforms-3\5d7b28e2c337942c251313b95151289f\transformed\annotation-experimental-1.3.0\res
+com.example.vaultly.test.app-androidTest-2 C:\Users\Amaan\Downloads\Vaultly\Vaultly\app\build\generated\res\resValues\androidTest\debug
+com.example.vaultly.test.app-mergeDebugAndroidTestResources-3 C:\Users\Amaan\Downloads\Vaultly\Vaultly\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.vaultly.test.app-mergeDebugAndroidTestResources-4 C:\Users\Amaan\Downloads\Vaultly\Vaultly\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.vaultly.test.app-merged_res-5 C:\Users\Amaan\Downloads\Vaultly\Vaultly\app\build\intermediates\merged_res\debugAndroidTest
